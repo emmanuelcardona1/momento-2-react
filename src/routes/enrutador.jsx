@@ -5,14 +5,17 @@ import ListaCliente from "../pages/ListaCliente"
 import DetalleCliente from "../pages/DetalleCliente"
 import DetalleProductos from "../pages/DetalleProductos"
 export let enrutador = [
+
+
+    {
+        path: "/",
+        element: <VistaCliente />,
+    },
     {
         path: "/listaProductos",
         element: <ListaProductos />,
     },
-    {
-        path: "/vistaCliente",
-        element: <VistaCliente />,
-    },
+    
     {
         path: "/vistaProducto",
         element: <VistaProducto />,

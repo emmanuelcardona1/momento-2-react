@@ -21,7 +21,7 @@ const VistaProducto = () => {
                 onButtonClick={() => navigate("/listaProductos")}
             >
                 
-                <a className="enlace-card" href="/vistaCliente">Buscar Cliente</a>
+                <a className="enlace-card" href="/">Buscar Cliente</a>
 
             </Card>
         </div>

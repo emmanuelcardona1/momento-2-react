@@ -1,0 +1,102 @@
+body {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+.contenedor-cards-producto {
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 16px; 
+    justify-content: center; 
+    padding: 16px;
+  }
+.button-Lista-producto {
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+  
+}
+.contenedor-boton {
+  position: absolute;
+  bottom: 0px; 
+  right: 16px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.button-Lista-producto {
+  margin-top: auto;
+  margin-bottom: 0; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

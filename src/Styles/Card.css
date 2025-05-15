@@ -1,0 +1,30 @@
+.card {
+    border: 2px solid #FFD076;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    height: 410px;
+    width: 35%;
+    margin-top: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 80px;
+  }
+  .input-card {
+    width: 90%;
+    padding: 8px;
+    font-size: 30px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 14px;
+    border-radius: 8px;
+    border: 2px solid #FFD076;
+  }
+  .enlace-card {
+    padding: 8px;
+    font-size: 16px;
+    margin-left: 14px;
+    margin-bottom: 1px;
+  }

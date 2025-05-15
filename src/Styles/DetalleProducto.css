@@ -1,0 +1,31 @@
+.detalle-productos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.contenedor-img-producto-1{
+    border: 2px solid #000000;
+    width: 30%;
+    height: 400px;
+    margin-bottom: 150px;
+
+    
+}
+.contenedor-img-producto-2{
+    border: 2px solid #000000;
+    width: 30%;
+    height: 400px;
+    margin-left: 450px;
+    margin-bottom: 150px;
+}.contenedor-boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    bottom: 16px;
+    left: 18%;
+    transform: translateX(-50%);
+  }

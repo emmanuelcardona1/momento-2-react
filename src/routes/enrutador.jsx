@@ -26,7 +26,7 @@ export let enrutador = [
         element: <DetalleCliente />,
     },
     {
-    path: "/",
-    element: <DetalleProductos />,
+    path: "/detalleProducto",
+    element: <DetalleProductos/>,
     }
 ]

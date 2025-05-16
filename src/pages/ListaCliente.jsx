@@ -12,7 +12,7 @@ const ListaClientes = () => {
     };
 
     const irAVistaCliente = () => { 
-        navigate('/vistaCliente');
+        navigate('/');
     };
 
     return (
